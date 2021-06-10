@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1525463689 source:c:\archivos\ezequiel\trabajos\utn\mi github\tp_laboratorio_1\tp_2_abm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1525464123 c:\archivos\ezequiel\trabajos\utn\mi github\tp_laboratorio_1\tp_2_abm\funciones.h
+
+1525463122 source:c:\archivos\ezequiel\trabajos\utn\mi github\tp_laboratorio_1\tp_2_abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+

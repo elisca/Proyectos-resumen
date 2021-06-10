@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Venta de animales, perros, gatos.">
+    <title>Venta de animales</title>
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <script src="./js/scripts.js" type="module" defer></script>
+</head>
+<body id="cuerpo">
+    <header>
+        <img class="logo" src="./img/elefante-logo.svg" alt="logo elefante">
+        <nav>
+            <a class="links" href="">Nosotros</a>
+            <a class="links" href="">Anuncios</a>
+            <a class="links" href="">Blog</a>
+            <a class="links" href="">Contacto</a>
+        </nav>
+    </header>
+    <p class="encabezado"><em>Administración</em></p>
+    <img class="banner" src="./img/tortuga-banner.jpg" alt="banner tortuga" height="250px">
+    <div class="principal">
+        <main>
+            <section class="formulario">
+                <form class="anuncio">
+                    <fieldset class="flsAnuncio">
+                        <legend>Información del anuncio</legend>
+
+                        <!-- Titulo -->
+                        <div class="divAnuncioCampo">
+                            <label>TITULO:</label>
+                            <br>
+                            <input class="campoDatos" type="text" id="txtTitulo" placeholder="Titulo" required>
+                            <br>
+                            <br>
+                        </div>
+
+                        <!-- Descripción -->
+                        <div class="divAnuncioCampo">
+                            <label>DESCRIPCIÓN:</label>
+                            <br>
+                            <input class="campoDatos" type="text" id="txtDescripcion" placeholder="Descripción" required>
+                            <br>
+                            <br>
+                        </div>
+
+                        <!-- Animal -->
+                        <div class="divAnuncioCampo">
+                            <label>ANIMAL:</label>
+                            <br>
+                            <fieldset class="radioOpciones">
+                                <div>
+                                    <label for="rdoPerro">PERRO</label>
+                                    <input type="radio" class="radioB" name="rdoAnimal" id="rdoPerro" value="Perro" checked>
+                                </div>
+                                <div>
+                                    <label for="rdoGato">GATO</label>
+                                    <input type="radio" class="radioB" name="rdoAnimal" id="rdoGato" value="Gato">
+                                </div>
+                            </fieldset>                            
+                        </div>
+
+                        <!-- Precio -->
+                        <div class="divAnuncioCampo">
+                            <label>PRECIO:</label>
+                            <br>
+                            <input class="campoDatos" type="text" id="txtPrecio" placeholder="Precio" required>
+                            <br>
+                            <br>
+                        </div>
+
+                        <!-- Caracteristicas -->
+                        <div class="divAnuncioCampo divCaracteristicas">
+                            <!-- Raza -->
+                            <img class="imgCaracteristicas" src="./img/raza.ico" alt="logo perro raza">
+                            <input class="campoDatos campoDatosCaracteristicas" type="text" id="txtRaza" placeholder="Raza" required>
+                            <!-- Fecha de nacimiento -->
+                            <img class="imgCaracteristicas" src="./img/fecha-nacimiento.ico" alt="Ciguena fecha nacimiento">
+                            <input class="campoDatos campoDatosCaracteristicas" type="date" id="datNacimiento" placeholder="Fecha de nacimiento" required>
+                            <!-- Vacunación -->
+                            <img class="imgCaracteristicas" src="./img/vacuna.ico" alt="Jeringa vacuna">
+                            <select class="campoDatos campoDatosCaracteristicas" class="divAnuncioCampo" name="selVacunacion" id="sVacunacion">
+                                <option value="si" selected>SI</option>
+                                <option value="no">NO</option>
+                            </select>
+                        </div>
+                    </fieldset>
+
+                    <br>
+
+                    <div class="divBotones">
+                        <!-- Guardar -->
+                        <br>
+                        &nbsp;
+                        <input type="button" class="bGuardar" id="btnGuardar" value="Guardar">
+                        <!-- Modificar -->
+                        <br>
+                        &nbsp;
+                        <input type="button" class="bGuardar" id="btnModificar" value="Modificar">
+                        <!-- Borrar -->
+                        <br>
+                        &nbsp;
+                        <input type="button" class="bGuardar" id="btnBorrar" value="Borrar">
+                        <!-- Restablecer -->
+                        <br>
+                        &nbsp;
+                        <input type="reset" class="bGuardar" id="btnReset" value="Restablecer">
+                    </div>
+                </form>
+                <br>
+            </section>
+
+            <section class="datos">
+                <div class="tablaDatos" id="dTablaDatos">
+                    <!-- Tabla de datos -->
+                </div>
+            </section>
+        </main>
+        <br>
+    </div>
+    <footer>
+        <nav>
+            <a class="links" href="">Nosotros</a>
+            <a class="links" href="">Anuncios</a>
+            <a class="links" href="">Blog</a>
+            <a class="links" href="">Contacto</a>
+        </nav>
+        <p class="links">Todos los derechos reservados 2020&copy;</p>
+    </footer>
+</body>
+</html>

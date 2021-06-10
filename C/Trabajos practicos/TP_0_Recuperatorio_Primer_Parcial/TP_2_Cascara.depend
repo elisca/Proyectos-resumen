@@ -1,0 +1,592 @@
+# depslib dependency file v1.0
+1525463689 source:c:\archivos\ezequiel\trabajos\utn\mi github\tp_laboratorio_1\tp_2_abm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1525464123 c:\archivos\ezequiel\trabajos\utn\mi github\tp_laboratorio_1\tp_2_abm\funciones.h
+
+1525463122 source:c:\archivos\ezequiel\trabajos\utn\mi github\tp_laboratorio_1\tp_2_abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525616934 source:c:\users\elisca\downloads\ejercicios\mercado libre\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1525616332 c:\users\elisca\downloads\ejercicios\mercado libre\producto.h
+
+1525616894 source:c:\users\elisca\downloads\ejercicios\mercado libre\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usuario.h"
+
+1525616389 c:\users\elisca\downloads\ejercicios\mercado libre\usuario.h
+
+1525615241 source:c:\users\elisca\downloads\ejercicios\mercado libre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+	"producto.h"
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\mercado libre\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1525616273 c:\users\elisca\downloads\ejercicios\mercado libre\calculos.h
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\mercado libre\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1525616273 c:\users\elisca\downloads\ejercicios\mercado libre\ordenamiento.h
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\mercado libre\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1525616273 c:\users\elisca\downloads\ejercicios\mercado libre\validaciones.h
+
+1525617013 source:c:\users\elisca\downloads\ejercicios\mercado libre\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1525616332 c:\users\elisca\downloads\ejercicios\mercado libre\input.h
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1525616273 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\calculos.h
+
+1525617013 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1525616332 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\input.h
+
+1525616273 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\validaciones.h
+
+1525615241 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+	"producto.h"
+
+1525616389 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\usuario.h
+
+1525616332 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\producto.h
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1525616273 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\ordenamiento.h
+
+1525616934 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1525616894 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usuario.h"
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1525616273 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\calculos.h
+
+1525617013 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1525621700 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\input.h
+
+1525616273 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\validaciones.h
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1525616273 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\ordenamiento.h
+
+1525621235 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1525621352 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\producto.h
+
+1525621235 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usuario.h"
+
+1525621318 c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\usuario.h
+
+1525616798 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1525621335 source:c:\users\elisca\downloads\ejercicios\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+	"producto.h"
+	"validaciones.h"
+	"ordenamiento.h"
+	"input.h"
+	"calculos.h"
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\calculos.h
+
+1525915244 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\input.h
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\validaciones.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\ordenamiento.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\producto.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usuario.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\usuario.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1525915149 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (base sin modificar)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+	"producto.h"
+	"validaciones.h"
+	"ordenamiento.h"
+	"input.h"
+	"calculos.h"
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\calculos.h
+
+1525962692 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1525964795 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\input.h
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\validaciones.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\ordenamiento.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\producto.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usuario.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\usuario.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1525966296 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\testeo de examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+	"producto.h"
+	"validaciones.h"
+	"ordenamiento.h"
+	"input.h"
+	"calculos.h"
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\calculos.h
+
+1525962692 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1525964795 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\input.h
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\validaciones.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\ordenamiento.h
+
+1525966413 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usuario.h"
+
+1525732147 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\usuario.h
+
+1525732147 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1525966638 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\mercado libre (sin modificar - corregido)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+	"validaciones.h"
+	"ordenamiento.h"
+	"input.h"
+	"calculos.h"
+
+1526073546 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1526073546 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\calculos.h
+
+1526144678 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1526144773 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\input.h
+
+1526144678 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\validaciones.h
+
+1526151480 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	"cliente.h"
+	"publicacion.h"
+	"validaciones.h"
+	"ordenamiento.h"
+	"input.h"
+	"calculos.h"
+
+1526073546 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\usuario.h
+
+1526073546 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\ordenamiento.h
+
+1526073546 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1526073546 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"usuario.h"
+
+1526140571 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1526073546 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\informes.c
+
+1526136678 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\cliente.h
+
+1526137208 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\publicacion.h
+
+1526149282 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"publicacion.h"
+
+1526149282 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\primer parcial - trabajo practico\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cliente.h"
+
+1526338307 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1526338307 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\calculos.h
+
+1526544036 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cliente.h"
+	"publicacion.h"
+	"input.h"
+
+1526542076 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\cliente.h
+	"publicacion.h"
+
+1526545013 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"informes.h"
+	"input.h"
+
+1526544464 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1526542960 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\input.h
+
+1526544464 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\validaciones.h
+
+1526338307 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1526338307 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\ordenamiento.h
+
+1526544036 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cliente.h"
+	"publicacion.h"
+	"input.h"
+
+1526544036 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\publicacion.h
+	"cliente.h"
+
+1526544464 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1526544719 source:c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"validaciones.h"
+	"ordenamiento.h"
+	"input.h"
+	"calculos.h"
+	"informes.h"
+
+1526545013 c:\archivos\ezequiel\trabajos\utn\mi github\lab-prog.-i\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\informes.h
+	"cliente.h"
+	"publicacion.h"
+
+1526531034 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1526531034 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\calculos.h
+
+1526579402 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cliente.h"
+	"publicacion.h"
+	"input.h"
+
+1526531034 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\cliente.h
+	"publicacion.h"
+
+1526531034 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\publicacion.h
+	"cliente.h"
+
+1526531034 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\input.h
+
+1526580892 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"informes.h"
+	"input.h"
+
+1526580997 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\informes.h
+	"cliente.h"
+	"publicacion.h"
+
+1526581252 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+	"validaciones.h"
+
+1526531034 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\validaciones.h
+
+1526581153 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"validaciones.h"
+	"input.h"
+	"informes.h"
+
+1526531034 c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\ordenamiento.h
+
+1526531034 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1526580323 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cliente.h"
+	"publicacion.h"
+	"input.h"
+
+1526580472 source:c:\users\elisca\downloads\lab-prog.-i-master\lab-prog.-i-master\carpeta temporal - practica\(seguir este) primer parcial - trabajo practico\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+

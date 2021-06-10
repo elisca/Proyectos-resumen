@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body{
+    background-color: white;
+}
+
+header,footer{
+    display: flex;
+    position: sticky;
+    flex-wrap: wrap;
+    padding: 15px;
+    justify-content: space-between;
+    background-color: bisque;
+}
+
+main{
+    background-color: white;
+}
+
+fieldset{
+    display: flex;
+    flex-flow: column wrap;    
+}
+
+table{
+    justify-content: center;
+    text-align: center;
+}
+
+nav{
+    align-self: center;
+    padding-right: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+label{
+    margin: 3px;
+}
+
+th{
+    background-color: forestgreen;
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: beige;
+}
+
+tr:nth-child(odd){
+    background-color: darkseagreen;
+}
+
+tr:hover{
+    background-color: darkolivegreen;
+    color: white;
+}
+
+nav>a,.pieCopyright{
+    font-family: 'Pattaya', sans-serif;
+}
+
+.secDatos{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    background-color: white;
+}
+
+.btnForm{
+    width: 150px;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 3px;
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+.img_icono{
+    width: 10%;
+    height: 10%;
+}
+
+.img_banner{
+    width: 100%;
+}
+
+.flsSubForm{
+    width: 100%;
+}
+
+@media(min-width: 400px){
+    fieldset{
+        display: flex;
+        flex-flow: row wrap;
+    }
+}

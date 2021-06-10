@@ -1,0 +1,10 @@
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Métodos de Clase\Ejercicio_13\Ejercicio_13\bin\Debug\Ejercicio_13.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Métodos de Clase\Ejercicio_13\Ejercicio_13\bin\Debug\Ejercicio_13.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Métodos de Clase\Ejercicio_13\Ejercicio_13\obj\Debug\Ejercicio_13.csprojResolveAssemblyReference.cache
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Métodos de Clase\Ejercicio_13\Ejercicio_13\obj\Debug\Ejercicio_13.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Métodos de Clase\Ejercicio_13\Ejercicio_13\obj\Debug\Ejercicio_13.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_22\Ejercicio_13\obj\Debug\Ejercicio_13.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_22\Ejercicio_13\obj\Debug\Ejercicio_13.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_22\Ejercicio_13\bin\Debug\Ejercicio_13.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_22\Ejercicio_13\bin\Debug\Ejercicio_13.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_22\Ejercicio_13\obj\Debug\Ejercicio_13.csprojResolveAssemblyReference.cache

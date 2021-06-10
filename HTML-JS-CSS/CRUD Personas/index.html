@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practica de CRUD</title>
+    <script src="./assets/js/scripts.js" type="module" defer></script>
+    <link rel="stylesheet" href="./assets/css/estilos.css">
+    <link rel="shortcut icon" href="./favicon.png" type="image/x-icon">
+</head>
+<body>
+    <!-- Encabezado -->
+    <header>
+        <!-- Logotipo -->
+        <img src="./assets/img/logo.svg" alt="logo" class="img_icono">
+
+        <!-- Barra de navegación -->
+        <nav>
+            <a href="#" target="_blank">Nosotros</a>
+            <a href="#" target="_blank">Anuncios</a>
+            <a href="#" target="_blank">Blog</a>
+            <a href="#" target="_blank">Contacto</a>
+        </nav>
+    </header>
+
+    <!-- Contenido principal -->
+    <main>    
+        <!-- Título -->
+        <h1>Administración</h1>
+        
+        <!-- Banner -->
+        <img src="assets/img/banner.jpg" alt="banner" class="img_banner">
+
+        <!-- Formulario ingreso datos -->
+        <section>            
+            <form>
+                <fieldset>
+                    <legend>Información</legend>
+                    <fieldset class="flsSubForm">                
+                        <legend>Datos de Persona</legend>
+                        <input type="hidden" name="txtId" id="idId">
+                        <div>
+                            <label for="txtNombre">Nombre:</label>
+                            <input type="text" name="txtNombre" id="idNombre" placeholder="Ingrese su nombre...">
+                        </div>
+                
+                        <div>                            
+                            <label for="txtApellido">Apellido:</label>
+                            <input type="text" name="txtApellido" id="idApellido" placeholder="Ingrese su apellido...">
+                        </div>
+                
+                        <div>                            
+                            <label for="txtEmail">Email</label>
+                            <input type="text" name="txtEmail" id="idEmail" placeholder="Ingrese su email...">
+                        </div>
+                
+                        <div>                            
+                            <label for="txtEdad">Edad</label>
+                            <input type="text" name="txtEdad" id="idEdad" placeholder="Ingrese su edad...">
+                        </div>
+                    </fieldset>
+        
+                    <fieldset class="flsSubForm">
+                        <legend>Sexo</legend>
+                        <div>                            
+                            <input type="radio" name="radSexo" id="rSexoF" value="F" checked>
+                            <label for="rSexoF"><i class="fa fa-female" aria-hidden="true"></i> Femenino</label>
+                        </div>
+                        <div>                            
+                            <input type="radio" name="radSexo" id="rSexoM" value="M">
+                            <label for="rSexoM"><i class="fa fa-male" aria-hidden="true"></i> Masculino</label>
+                        </div>
+                    </fieldset>
+        
+                    <fieldset class="flsSubForm">
+                        <legend>Características Adicionales</legend>
+                        <div>                            
+                            <input type="checkbox" name="chkCATatuajes" id="cTatuajes">
+                            <label for="cTatuajes">Tatuajes</label>
+                        </div>
+                        <div>                            
+                            <input type="checkbox" name="chkCAPiercings" id="cPiercings">
+                            <label for="cPiercings">Piercings</label>
+                        </div>
+                        <div>                            
+                            <input type="checkbox" name="chkCAOtros" id="cOtros">
+                            <label for="cOtros">Otros</label>
+                        </div>
+                    </fieldset>
+                </fieldset>
+        
+                <fieldset>
+                    <legend>Acciones</legend>
+                    <button type="submit" class="btnForm" id="btnAgregar"><i class="fa fa-floppy-o" aria-hidden="true">Agregar persona</i></button>
+                    <button type="button" class="btnForm" id="btnModificar"><i class="fa fa-file-o" aria-hidden="true"> Modificar persona</i></button>
+                    <button type="button" class="btnForm" id="btnEliminar"><i class="fa fa-eraser" aria-hidden="true"> Eliminar persona</i></button>
+                    <button type="button" class="btnForm" id="btnEliminarTodo"><i class="fa fa-chain-broken" aria-hidden="true"></i> Eliminar todo</button>
+                    <button type="reset" class="btnForm" id="btnReset"><i class="fa fa-undo" aria-hidden="true"> Restablecer</i></button>
+                </fieldset>
+            </form>
+        </section>    
+
+        <!-- Tabla de datos -->
+        <section class="secDatos">
+            <div id="divTablaDatos"></div>
+        </section>
+    </main>
+
+    <!-- Pie de página -->
+    <footer>
+        <!-- Barra de navegación -->
+        <nav>
+            <a href="#" target="_blank">Nosotros</a>
+            <a href="#" target="_blank">Anuncios</a>
+            <a href="#" target="_blank">Blog</a>
+            <a href="#" target="_blank">Contacto</a>
+        </nav>
+        <!-- Firma de Copyright -->
+        <p class="pieCopyright">Todos los derechos reservados&copy; 2021</p>
+    </footer>
+</body>
+</html>

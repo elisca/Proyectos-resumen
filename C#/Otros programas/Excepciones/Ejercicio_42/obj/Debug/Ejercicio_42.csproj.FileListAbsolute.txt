@@ -1,0 +1,6 @@
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_42\bin\Debug\Ejercicio_42.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_42\bin\Debug\Ejercicio_42.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_42\bin\Debug\Ejercicio_42.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_42\obj\Debug\Ejercicio_42.csprojAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_42\obj\Debug\Ejercicio_42.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_42\obj\Debug\Ejercicio_42.pdb

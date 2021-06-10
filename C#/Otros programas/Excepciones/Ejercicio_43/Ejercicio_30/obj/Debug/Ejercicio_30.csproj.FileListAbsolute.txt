@@ -1,0 +1,18 @@
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.csprojResolveAssemblyReference.cache
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_36\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_36\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_36\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_36\Ejercicio_30\obj\Debug\Ejercicio_30.csprojResolveAssemblyReference.cache
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_36\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_36\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\obj\Debug\Ejercicio_30.csprojAssemblyReference.cache

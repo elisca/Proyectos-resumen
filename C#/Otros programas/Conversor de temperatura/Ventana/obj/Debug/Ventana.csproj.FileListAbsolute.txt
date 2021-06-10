@@ -1,0 +1,10 @@
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\bin\Debug\Ventana.exe
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\bin\Debug\Ventana.pdb
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\obj\Debug\Ventana.Form1.resources
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\obj\Debug\Ventana.Properties.Resources.resources
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\obj\Debug\Ventana.csproj.GenerateResource.Cache
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\obj\Debug\Ventana.exe
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\obj\Debug\Ventana.pdb
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\bin\Debug\Ejercicio_21.dll
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\bin\Debug\Ejercicio_21.pdb
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ventana\obj\Debug\Ventana.csprojResolveAssemblyReference.cache

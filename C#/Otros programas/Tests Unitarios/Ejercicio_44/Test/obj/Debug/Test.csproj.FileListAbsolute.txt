@@ -1,0 +1,40 @@
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\Test\bin\Debug\Test.exe.config
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\Test\bin\Debug\Test.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\Test\bin\Debug\Test.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.dll
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\Test\obj\Debug\Test.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\Test\obj\Debug\Test.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\Test\bin\Debug\Test.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\Test\obj\Debug\Test.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\Test\obj\Debug\Test.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\Test\bin\Debug\Test.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\Test\bin\Debug\Test.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\Test\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\Test\bin\Debug\Test.exe.config
+C:\Users\Ezequiel\Documents\Ejercicio_40\Test\obj\Debug\Test.exe
+C:\Users\Ezequiel\Documents\Ejercicio_40\Test\obj\Debug\Test.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\Test\bin\Debug\Test.exe
+C:\Users\Ezequiel\Documents\Ejercicio_40\Test\bin\Debug\Test.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\Test\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\Ejercicio_40\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\Test\bin\Debug\Test.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\Test\bin\Debug\Test.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\Test\bin\Debug\Test.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\Test\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\Test\obj\Debug\Test.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\Test\obj\Debug\Test.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\Test\bin\Debug\Test.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\Test\bin\Debug\Test.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\Test\bin\Debug\Test.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\Test\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\Test\obj\Debug\Test.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\Test\obj\Debug\Test.pdb

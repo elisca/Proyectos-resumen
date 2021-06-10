@@ -1,0 +1,101 @@
+header, footer{
+    display: flex;
+    position: sticky;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: orangered;
+}
+
+.logo{
+    padding-left: 10px;
+    width: 10%;
+    height: 10%;
+    /* width: 160px; */
+    /* height: 160px; */
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    padding-right: 5%;
+}
+
+.links{
+    color: white;
+    padding: 10px;
+}
+
+.divCaracteristicas{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+}
+
+.divBotones{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+}
+
+.tablaDatos{
+    /* Centrar items */
+    display: flex;	
+    justify-content: center;
+}
+
+.tablaEncabezado{
+    background-color: darkblue;
+    color: white;
+}
+
+.banner{
+    width: 100%;
+    height: 200px;
+}
+
+legend{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+.campoDatos{
+    background-color: lightgray;
+    color: gray;
+    border-radius: 10px;
+    padding: 5px;
+    width: 98%;
+}
+
+.campoDatosCaracteristicas{
+    width: 25%;
+}
+
+.bGuardar{
+    background: url(../img/disquette.ico);
+    background-position: 8px 5px;
+    background-repeat: no-repeat;
+    background-color: steelblue;
+    color: white;
+    border-radius: 0px;
+    padding: 5px 30px;
+}
+
+.encabezado{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.radioOpciones{
+    display: flex;
+    justify-content: space-evenly;
+    border: none;
+}
+
+@media(min-width: 600px){
+    .divCaracteristicas{
+        display: flex;
+        flex-flow: row wrap;
+    }
+}

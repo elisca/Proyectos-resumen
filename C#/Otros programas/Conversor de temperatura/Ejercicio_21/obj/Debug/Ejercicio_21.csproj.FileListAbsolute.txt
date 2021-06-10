@@ -1,0 +1,10 @@
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csprojResolveAssemblyReference.cache
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.pdb
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ejercicio_21\obj\Debug\Ejercicio_21.pdb
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ejercicio_21\obj\Debug\Ejercicio_21.csprojResolveAssemblyReference.cache
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ejercicio_21\bin\Debug\Ejercicio_21.dll
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ejercicio_21\bin\Debug\Ejercicio_21.pdb
+C:\Users\ezequ\Documents\Formularios\Ejercicio_24\Ejercicio_21\obj\Debug\Ejercicio_21.dll

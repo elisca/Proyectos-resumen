@@ -1,0 +1,7 @@
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\UnitTestProject1\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\UnitTestProject1\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\UnitTestProject1\obj\Debug\PruebaUnitariaCentralita.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

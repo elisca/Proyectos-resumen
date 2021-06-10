@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1525917310 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\bibliotecas propias\arrays.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+
+1525917386 c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\bibliotecas propias\input.h
+
+1525917310 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\bibliotecas propias\calculos.c
+	<stdio.h>
+	<stdlib.h>
+
+1525917310 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\bibliotecas propias\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1525917386 c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\bibliotecas propias\validaciones.h
+
+1446667744 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\bibliotecas propias\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1525917310 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\bibliotecas propias\sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1525917310 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\bibliotecas propias\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1525917310 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\calculos.c
+	<stdio.h>
+	<stdlib.h>
+
+1525963763 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrays.h"
+
+1525917310 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1525917310 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1526343311 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\arrays.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+
+1527558138 c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\input.h
+
+1527558138 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1525917386 c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\validaciones.h
+
+1526343298 c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\arrays.h
+
+1527557993 source:c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\archivos.c
+	<stdio.h>
+	"archivos.h"
+
+1527557985 c:\archivos\ezequiel\trabajos\utn\mi github\librerias_propias_c\archivos.h
+
+1527559120 source:c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\arrays.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+
+1527559120 c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\input.h
+
+1527559120 source:c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\calculos.c
+	<stdio.h>
+	<stdlib.h>
+
+1527559120 source:c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1527559120 c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\validaciones.h
+
+1527559120 source:c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrays.h"
+
+1527559120 c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\arrays.h
+
+1527559120 source:c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1527559120 source:c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1529439753 source:c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\archivos.c
+	<stdio.h>
+	"archivos.h"
+
+1529439785 c:\users\ezequiel\downloads\librerias_propias_c-master\librerias_propias_c-master\archivos.h
+

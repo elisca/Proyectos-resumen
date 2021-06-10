@@ -1,0 +1,5 @@
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.exe.config
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.pdb

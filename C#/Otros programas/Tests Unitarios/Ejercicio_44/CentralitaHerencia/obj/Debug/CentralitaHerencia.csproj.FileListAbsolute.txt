@@ -1,0 +1,24 @@
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Arrays y Colecciones\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Sobrecarga de Métodos, Polimorfismo, Abstract y Virtual\Ejercicio_40\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\Ejercicio_40\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\Ejercicio_40\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

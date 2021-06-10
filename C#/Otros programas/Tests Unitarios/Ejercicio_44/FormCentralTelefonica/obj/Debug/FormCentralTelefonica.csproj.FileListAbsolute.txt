@@ -1,0 +1,39 @@
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.exe.config
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.exe
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmCentralita.resources
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmLlamador.resources
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.Properties.Resources.resources
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.csproj.GenerateResource.Cache
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.exe
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.pdb
+C:\Users\Ezequiel\Documents\Ejercicio_40\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmMostrar.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmCentralita.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmLlamador.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmMostrar.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.Properties.Resources.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_41\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.csproj.GenerateResource.Cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\bin\Debug\FormCentralTelefonica.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\bin\Debug\CentralitaHerencia.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmCentralita.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmLlamador.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.FrmMostrar.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.Properties.Resources.resources
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Tests Unitarios\Ejercicio_44\FormCentralTelefonica\obj\Debug\FormCentralTelefonica.csproj.GenerateResource.Cache

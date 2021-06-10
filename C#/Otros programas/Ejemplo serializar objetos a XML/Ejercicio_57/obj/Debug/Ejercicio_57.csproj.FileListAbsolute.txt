@@ -1,0 +1,6 @@
+D:\Ezequiel Lisca\Ejercicio_57\Ejercicio_57\bin\Debug\Ejercicio_57.exe.config
+D:\Ezequiel Lisca\Ejercicio_57\Ejercicio_57\bin\Debug\Ejercicio_57.exe
+D:\Ezequiel Lisca\Ejercicio_57\Ejercicio_57\bin\Debug\Ejercicio_57.pdb
+D:\Ezequiel Lisca\Ejercicio_57\Ejercicio_57\obj\Debug\Ejercicio_57.csproj.CoreCompileInputs.cache
+D:\Ezequiel Lisca\Ejercicio_57\Ejercicio_57\obj\Debug\Ejercicio_57.exe
+D:\Ezequiel Lisca\Ejercicio_57\Ejercicio_57\obj\Debug\Ejercicio_57.pdb

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1523314822 source:c:\archivos\ezequiel\trabajos\utn\laboratorio i - programacion i\laboratorio i\materiales\trabajos practicos\tp n°1 - calculadora\tp1_calculadora\func_mat.c
+	<stdio.h>
+	<stdlib.h>
+	"func_mat.h"
+
+1523314822 source:c:\archivos\ezequiel\trabajos\utn\laboratorio i - programacion i\laboratorio i\materiales\trabajos practicos\tp n°1 - calculadora\tp1_calculadora\input.c
+	<stdio.h>
+	<stdlib.h>
+
+1523315892 source:c:\archivos\ezequiel\trabajos\utn\laboratorio i - programacion i\laboratorio i\materiales\trabajos practicos\tp n°1 - calculadora\tp1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"func_mat.h"
+	"input.h"
+
+1523314822 c:\archivos\ezequiel\trabajos\utn\laboratorio i - programacion i\laboratorio i\materiales\trabajos practicos\tp n°1 - calculadora\tp1_calculadora\func_mat.h
+
+1523313949 c:\archivos\ezequiel\trabajos\utn\laboratorio i - programacion i\laboratorio i\materiales\trabajos practicos\tp n°1 - calculadora\tp1_calculadora\input.h
+
+1523316946 source:c:\users\ezequiel\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_calculadora\func_mat.c
+	<stdio.h>
+	<stdlib.h>
+	"func_mat.h"
+
+1523316946 c:\users\ezequiel\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_calculadora\func_mat.h
+
+1523316946 source:c:\users\ezequiel\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_calculadora\input.c
+	<stdio.h>
+	<stdlib.h>
+
+1523664980 source:c:\users\ezequiel\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"func_mat.h"
+	"input.h"
+
+1523316946 c:\users\ezequiel\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_calculadora\input.h
+
